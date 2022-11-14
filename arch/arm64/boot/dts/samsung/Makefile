@@ -120,3 +120,4 @@ samsung-sdm450-qrd-hs50-r09-overlay.dtbo-base := sdm450.dtb \
 always		:= $(dtb-y)
 subdir-y	:= $(dts-dirs)
 clean-files	:= *.dtb
+endif
